@@ -1,6 +1,6 @@
 # Arsip Digital USBR
 
-Sistem manajemen arsip digital berbasis web untuk Universitas Swadharma Bandung Raya (USBR).
+Sistem manajemen arsip digital berbasis web untuk Universitas Setia Budhi Rangkasbitung (USBR).
 
 ## Fitur Utama
 
